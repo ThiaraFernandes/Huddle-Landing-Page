@@ -44,7 +44,7 @@
     .container .informacoes h1{
         text-align: center;
         width: auto;
-        font-size: 28px;
+        font-size: 25px;
         
     }
 
@@ -75,11 +75,15 @@
         
     }
 
+    .container .informacoes p{
+        font-size: 14px;
+    }
+
     .footer {
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
-        margin: 40px 0 0 30px;
+        margin: 20px 0 0 25px;
     }
 }
